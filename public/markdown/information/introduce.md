@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 사용자 **500명**이 가입한 서비스를 현재 운영하고 있습니다.
+- 신입 백엔드 개발자이지만 **동아리, 팀 프로젝트, 학생회** 등을 경험하여 **협업**에 유연합니다.
+- **사용자 중심 개발**의 중요성을 알고 어떻게 하면 더 성장할 수 있을지 끊임없이 고민합니다.

@@ -5,12 +5,15 @@ import remarkGfm from "remark-gfm";
 import Links from "./Links";
 
 import { ProjectProps } from "@/types";
+import { APP_PATHS_MANIFEST } from "next/dist/shared/lib/constants";
 
 const ProjectItem = ({
   name,
   description,
   repoUrl,
   webUrl,
+  googleUrl,
+  appleUrl,
   period,
   stack,
   markdown,
@@ -36,7 +39,7 @@ const ProjectItem = ({
                 <span>{`${period[0]} - ${period[1]}`}</span>
               </div>
             </div>
-            <Links repoUrl={repoUrl} webUrl={webUrl} />
+            <Links repoUrl={repoUrl} webUrl={webUrl} googleUrl={googleUrl} appleUrl={appleUrl} />
           </div>
         </div>
       </div>
